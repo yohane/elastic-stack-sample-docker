@@ -41,6 +41,6 @@ localhostに修正する必要がある。
 
 ## 参考サイト
 
-[Running the Elastic Stack on Dockeredit](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
+[Running the Elastic Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
 
 [ElasticsearchをDocker(compose)で気軽に起動してみる](https://chidakiyo.hatenablog.com/entry/docker-compose_elasticsearch)
