@@ -30,5 +30,5 @@ docker-compose down
 
 ### 削除
 ```bash
-docker-compose down --rmi local
+docker-compose down --rmi all
 ```
