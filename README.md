@@ -20,7 +20,7 @@ docker-compose build
 docker-compose up -d
 ```
 
-<p class="info">**ポイント** Kibanaが使えるようになるのに時間がかかります。</p>
+:memo: **ポイント** Kibanaが使えるようになるのに時間がかかります。
 
 ### 停止
 ```bash
