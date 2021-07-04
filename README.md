@@ -36,7 +36,7 @@ docker-compose down --rmi all
 ## 注意点とか
 
 KibanaのDev toolsで「Copy as cURL」をした際のURLが  
-localhostではなくes01になってしまうため、ホストから実施する際に  
+localhostではなくes01になってしまうため、ホストからcurlを実施する際に  
 localhostに修正する必要がある。
 
 ## 参考サイト
