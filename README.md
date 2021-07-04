@@ -1,6 +1,7 @@
 ## これなに？
 
-[Elastic Stack実践ガイド[Elasticsearch/Kibana編]](https://tatsu-zine.com/books/elastic-stack-guide)を気楽にDockerで行うためのDockerfileおよびdocker-compose.yml
+[Elastic Stack実践ガイド[Elasticsearch/Kibana編]](https://tatsu-zine.com/books/elastic-stack-guide)を気楽にDockerで行うための  
+Dockerfileおよびdocker-compose.yml
 
 ## 使い方
 
