@@ -20,7 +20,8 @@ docker-compose build
 docker-compose up -d
 ```
 
-:memo: **ポイント** Kibanaが使えるようになるのに時間がかかります。
+:memo: **ポイント** Kibanaが使えるようになるのに時間がかかります。  
+(スペックによるかもしれないけど1分はかからないくらい)
 
 ### 停止
 ```bash
