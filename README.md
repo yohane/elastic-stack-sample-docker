@@ -7,7 +7,7 @@ Dockerfileおよびdocker-compose.yml
 
 ### ファイルのダウンロード
 ```bash
-git pull <this repo>
+git pull https://github.com/yohane/elastic-stack-sample-docker.git
 ```
 
 ### kuromojiをインストールしたElasticsearch7.6.2の構築
