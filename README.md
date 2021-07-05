@@ -30,7 +30,7 @@ docker-compose down
 
 ### 削除
 ```bash
-docker-compose down --rmi all
+docker-compose down --rmi all -v
 ```
 
 ## 注意点とか
