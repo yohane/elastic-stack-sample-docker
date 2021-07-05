@@ -48,7 +48,11 @@ git pull https://github.com/yohane/elastic-stack-sample-docker.git
 
 ### M1向けにディレクトリ移動
 ```bash
-cd for
+cd forM1
+```
+
+あとの手順は同じ  
+注意点としてはバージョンが違う(7.13.2)のでUI等も違う
 
 ## 参考サイト
 
