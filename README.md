@@ -39,6 +39,17 @@ KibanaのDev toolsで「Copy as cURL」をした際のURLが
 localhostではなくes01になってしまうため、ホストからcurlを実施する際に  
 localhostに修正する必要がある。
 
+## M1 Mac向け
+
+### ファイルのダウンロード
+```bash
+git pull https://github.com/yohane/elastic-stack-sample-docker.git
+```
+
+### M1向けにディレクトリ移動
+```bash
+cd for
+
 ## 参考サイト
 
 [Running the Elastic Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
